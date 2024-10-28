@@ -24,3 +24,5 @@ To address these issues, AtliQ Hardware needs a more efficient and transparent r
 I developed various report modes, including finance, sales, marketing, supply chain, and executive views, each tailored to provide insights specific to their respective fields.
 This is the Home view,
 ![Screenshot 2024-10-28 114320](https://github.com/user-attachments/assets/c2b38e3d-cd44-4edb-a499-26695c3407e9)
+# Executive View
+The executive view dashboard for AtliQ Hardware provides a concise summary of key business metrics, including net sales ($823.85M), gross margin (36.49%), net profit (-6.63%), and forecast accuracy (80.21%). It highlights regional performance, with India leading in sales, and shows revenue breakdowns by division and sales channels. The dashboard also tracks trends in revenue and market share from 2018 to 2022, along with top customers and products, offering a strategic overview in a single glance.
