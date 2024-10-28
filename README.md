@@ -23,4 +23,4 @@ To address these issues, AtliQ Hardware needs a more efficient and transparent r
 
 I developed various report modes, including finance, sales, marketing, supply chain, and executive views, each tailored to provide insights specific to their respective fields.
 This is the Home view,
-![Screenshot 2024-10-20 102355](https://github.com/user-attachments/assets/6984f70b-645f-435c-a42a-1beff2789e77)
+![Screenshot 2024-10-28 114320](https://github.com/user-attachments/assets/c2b38e3d-cd44-4edb-a499-26695c3407e9)
