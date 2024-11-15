@@ -75,10 +75,14 @@ In the Profit and Loss Statement, you've analyzed key financial metrics, showing
 
 # Supply Chain View
 
-![Screenshot 2024-10-28 171123](https://github.com/user-attachments/assets/681d7cc7-1ef2-49fa-a58c-3ba49ebbb3d5)
+![Screenshot 2024-11-15 154747](https://github.com/user-attachments/assets/7d0a17bd-05ac-472b-b960-cec16dea49d4)
 
 
-![Screenshot 2024-10-28 171202](https://github.com/user-attachments/assets/7cd99d13-268d-48ca-832f-9fabd9396e31)
+
+
+![Screenshot 2024-11-15 154805](https://github.com/user-attachments/assets/26ae9b5a-9a48-48cb-88a8-adf79a0ff81a)
+
+
 
 # Executive View
 The executive view dashboard for AtliQ Hardware provides a concise summary of key business metrics, including net sales ($823.85M), gross margin (36.49%), net profit (-6.63%), and forecast accuracy (80.21%). It highlights regional performance, with India leading in sales, and shows revenue breakdowns by division and sales channels. The dashboard also tracks trends in revenue and market share from 2018 to 2022, along with top customers and products, offering a strategic overview in a single glance.
