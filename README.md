@@ -52,7 +52,12 @@ In the Profit and Loss Statement, you've analyzed key financial metrics, showing
 
 
 # Sales View
-![Screenshot 2024-10-28 170939](https://github.com/user-attachments/assets/c2c7a2cd-b396-4799-8008-315c12416bb4)
+![Screenshot 2024-11-15 154124](https://github.com/user-attachments/assets/6fde45eb-5ca8-40b8-83e1-fa48571a2f06)
+
+
+
+
+![Screenshot 2024-11-15 154146](https://github.com/user-attachments/assets/ae6b19f7-7a2c-4711-bdde-1414367b3d51)
 
 
 # Marketing View
