@@ -89,8 +89,7 @@ The executive view dashboard for AtliQ Hardware provides a concise summary of ke
 
 
 
-![Screenshot 2024-10-28 170613](https://github.com/user-attachments/assets/b97e0986-825f-4ffe-ad1e-a6659f283ccf)
-
+![Screenshot 2024-11-15 155013](https://github.com/user-attachments/assets/91d153e4-9440-4565-8bb5-d2fd3c3a7904)
 
 ## Technical Skills Utilized
 
