@@ -42,13 +42,14 @@ This report features a diverse range of dynamic visuals designed to provide stak
 In the Net Sales Performance Over Time, you've tracked the trend of net sales from September 2020 to August 2021, comparing it with the benchmark. The graph reveals a peak in sales around December 2020, followed by a dip in early 2021, and then stable performance through the mid to later months of the year. This view also allows for a year-over-year comparison, giving insights into any seasonal patterns or fluctuations in sales performance relative to the benchmark, helping to identify key periods of growth or decline.
 
 
-![Screenshot 2024-10-28 170917](https://github.com/user-attachments/assets/fb4e2afd-c9c8-422a-a83d-e82a11626c11)
-
+![Screenshot 2024-11-15 153827](https://github.com/user-attachments/assets/a2c97a05-9f8c-4fc5-8921-b75e955f1531)
 
 In the Profit and Loss Statement, you've analyzed key financial metrics, showing substantial growth across most areas for 2021 compared to the benchmark (BM). Gross sales increased by 210.60%, resulting in a considerable rise in net sales by 207.43%. Detailed breakdowns of pre-invoice and post-invoice deductions highlight factors impacting net invoice sales. Manufacturing, freight, and other costs contribute to the Total COGS, with a significant manufacturing cost increase of 241.17%. Gross margin also grew by 202.37%, though the gross margin percentage saw a minor decline of 0.61%. Overall, there’s a notable improvement in operational expense and net profit, turning previous losses into gains in 2021.
 
 
-![Screenshot 2024-10-28 170825](https://github.com/user-attachments/assets/6b8903ed-5222-4f04-9e66-53778636b39e)
+![Screenshot 2024-11-15 153841](https://github.com/user-attachments/assets/a7a6924f-3bc3-4f5e-85b4-50613c1517a9)
+
+
 
 # Sales View
 ![Screenshot 2024-10-28 170939](https://github.com/user-attachments/assets/c2c7a2cd-b396-4799-8008-315c12416bb4)
