@@ -31,8 +31,7 @@ I developed various report modes, including finance, sales, marketing, supply ch
 This is the Home view,
 
 
-![Screenshot 2024-10-28 114320](https://github.com/user-attachments/assets/c2b38e3d-cd44-4edb-a499-26695c3407e9)
-
+![Screenshot 2024-11-15 153552](https://github.com/user-attachments/assets/cde07d62-fb5d-4db2-b0d7-14b5171b9697)
 
 ## Dynamic Visualizations
 
