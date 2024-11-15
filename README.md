@@ -61,11 +61,16 @@ In the Profit and Loss Statement, you've analyzed key financial metrics, showing
 
 
 # Marketing View
-![Screenshot 2024-10-28 171012](https://github.com/user-attachments/assets/88fa4815-3876-4da9-857c-2877152ccf8f)
+
+![Screenshot 2024-11-15 154424](https://github.com/user-attachments/assets/401e4193-fa92-4a9e-8fbe-548f276c167d)
 
 
 
-![Screenshot 2024-10-28 171027](https://github.com/user-attachments/assets/1ab92420-3091-4b2d-9018-7ed10b9487f6)
+
+
+![Screenshot 2024-11-15 154453](https://github.com/user-attachments/assets/daef01d3-9972-4157-b56e-817e5fc201eb)
+
+
 
 
 # Supply Chain View
